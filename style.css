@@ -1,3 +1,19 @@
 body{
     background-color: azure;
 }
+p{
+    color: blue;
+    text-align: center;
+}
+address{
+    text-align: center;
+}
+input:focus{
+    font-weight: 700;
+    color: red;
+    font-size: 18px;
+}
+li:nth-child(2n){
+    background-color: aqua;
+    color: indianred;
+}
